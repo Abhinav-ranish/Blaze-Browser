@@ -6,7 +6,7 @@ Only For Windows. Linux and Mac Soon !!.
 
 ## Installation :
 #### PS Link 1 is always the latest. I reguraly update github link
-Link 1 - 
+Link 1 - https://github.com/Abhinav-ranish/Blaze-Browser/blob/main/Browser.zip?raw=true
 
 
 #### > SETUP : ` Unzip and Run ExE`
