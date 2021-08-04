@@ -11,6 +11,8 @@ Link 1 - https://github.com/Abhinav-ranish/Blaze-Browser/blob/main/Browser.zip?r
 
 #### > SETUP : ` Unzip and Run ExE`
 
+[alt-text](https://github.com/Abhinav-ranish/Blaze-Browser/blob/main/PICS/1%20(1).png)
+[alt-text](https://github.com/Abhinav-ranish/Blaze-Browser/blob/main/PICS/1%20(2).png)
 
 
 ### <<< Please dont copy without Credits >>>
@@ -39,7 +41,7 @@ Thats it :)
 
 
 ## Compatibility
-Most Windows PC running Win 10 or Win 7
+Most Windows PC running Win 10 or Win 7 (beta Win 11)
 
 
 
